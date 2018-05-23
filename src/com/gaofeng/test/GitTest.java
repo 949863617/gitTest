@@ -6,5 +6,8 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		return super.toString();
 	}
+	public void say() {
+		
+	}
 
 }
